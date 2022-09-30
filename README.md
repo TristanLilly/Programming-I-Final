@@ -1,6 +1,13 @@
 # Programming-I-Final
 
+I think where this project could use improvement is with the end-score. It deisplays a transparent image, but Where the score and image are placed could use some refinement. Maybe moving them so that they are both visable and on their own screen rather than displayed ontop of the previous question. 
+
+
+
+
+
 These are the images associated with this project. 
+
 
 ![waterbucket](https://user-images.githubusercontent.com/112178449/193343594-028e59a9-cd4c-48ac-a750-0f4f3f398aae.png)
 
